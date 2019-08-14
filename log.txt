@@ -1,0 +1,8 @@
+Cycles: 0
+Max Cycles: 999
+SetPointP1: 64
+SetPointP2: 62.5
+SetPointP3: 68
+TimerP1: 5
+TimerP2: 20
+TimerP2: 1
